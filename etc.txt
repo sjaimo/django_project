@@ -1,0 +1,36 @@
+https://blog.naver.com/vega2k
+
+sjaimo@gmail.com github
+비번은..자주..
+
+Scikit-Learn -ML
+TensorFlow - ML / Deep Learning
+PyTorch
+
+https://github.com/django/django
+
+angular cli
+ionic cli
+
+ROM 매핑 Rule
+Class <=> Table
+Object <=> Row
+(instance)
+variable <=> Column
+(property)
+
+Java
+toString()
+Post post = new Post()
+println(post.toString())
+Python
+__str__()
+
+--------------------------------------------------
+pip install "django<2.0"
+pip show jdango
+pip list
+django-admin --version
+
+django-admin startproject mysite
+django-admin startproject mysite .
