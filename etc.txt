@@ -26,6 +26,8 @@ println(post.toString())
 Python
 __str__()
 
+w3schools
+
 --------------------------------------------------
 pip install "django<2.0"
 pip show jdango
