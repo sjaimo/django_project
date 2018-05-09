@@ -10,6 +10,8 @@ class Post(models.Model):
     title = models.CharField(max_length=200)
     #글내용
     text = models.TextField()
+    #migrate test
+    #test=models.TextField()
     #글작성일자
     created_date = models.DateTimeField(default=timezone.now)
     #글게시일자
