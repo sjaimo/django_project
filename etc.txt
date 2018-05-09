@@ -1,5 +1,30 @@
 https://blog.naver.com/vega2k
 
+Django 공식 홈 페이지
+	https://www.djangoproject.com/
+Django 소개
+	https://wiki.python.org/moin/WebFrameworks
+Django Tutorials 
+	https://docs.djangoproject.com/en/1.11/intro/tutorial01/
+	https://docs.djangoproject.com/en/1.11/intro/tutorial02/
+	https://docs.djangoproject.com/en/1.11/intro/tutorial03/
+	https://docs.djangoproject.com/en/1.11/intro/tutorial04/
+	https://docs.djangoproject.com/en/1.11/intro/tutorial05/
+	https://docs.djangoproject.com/en/1.11/intro/tutorial06/
+	https://docs.djangoproject.com/en/1.11/intro/tutorial07/
+Python 개발환경 download
+	https://www.python.org/downloads/
+Pycharm Editor download
+	https://www.jetbrains.com/pycharm/download/#section=windows
+Authentication in Web requests
+	https://docs.djangoproject.com/en/2.0/topics/auth/default/#auth-web-requests 
+Performing raw SQL queries
+	https://docs.djangoproject.com/en/2.0/topics/db/sql/
+Apache + Django 연동
+	https://nieaunder7.wordpress.com/2017/06/20/win7-apache-mod_wsgi-django-1-11/
+	https://github.com/GrahamDumpleton/mod_wsgi/blob/master/win32/README.rst
+
+
 sjaimo@gmail.com github
 비번은..자주..
 
